@@ -4,6 +4,8 @@
 	<project name="AgustinLorenzo/android_device_zuk_msm8996-common" path="device/zuk/msm8996-common" remote="github"  revision="lineage-15.1" />
 	<project name="AgustinLorenzo/android_vendor_zuk" path="vendor/zuk" remote="github"  revision="lineage-15.1" />
 	<project name="AOSiP-Devices/kernel_zuk_msm8996" path="kernel/zuk/msm8996" remote="github" revision="oreo-mr1" />
+	<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
+	<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
 
 	<remove-project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" groups="pdk,linux,arm" clone-depth="1" />
 	<project name="AgustinLorenzo/gcc-prebuilts" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="github" revision="7.2.1" />
