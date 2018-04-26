@@ -40,4 +40,8 @@
 	<remove-project path="packages/apps/Settings" name="LineageOS/android_packages_apps_Settings" groups="pdk" clone-depth="1"/>
 	<project path="packages/apps/Settings" name="AgustinLorenzo/android_packages_apps_Settings" groups="pdk" />
 
+	<remove-project path="packages/apps/Camera2" name="LineageOS/android_packages_apps_Camera2" groups="pdk-fs" clone-depth="1"/>
+
+	<remove-project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" groups="pdk" clone-depth="1"/>
+
 </manifest>
