@@ -17,7 +17,7 @@
 
 	<project name="AgustinLorenzo/android_device_zuk_z2_plus" path="device/zuk/z2_plus" remote="github" revision="lineage-15.1" />
 
-	<project name="AgustinLorenzo/android_device_zuk_z2_row" path="device/zuk/z2_row" remote="github" revision="8x-caf" />
+	<project name="AgustinLorenzo/android_device_zuk_z2_row" path="device/zuk/z2_row" remote="github" revision="lineage-15.1" />
 
 	<project name="AgustinLorenzo/android_device_zuk_msm8996-common" path="device/zuk/msm8996-common" remote="github" revision="lineage-15.1" />
 
