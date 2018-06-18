@@ -41,5 +41,5 @@
 	<project path="packages/apps/Settings" name="AgustinLorenzo/android_packages_apps_Settings" groups="pdk" />
 
 	<remove-project path="prebuilts/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" groups="pdk" clone-depth="1"/>
-	<project path="prebuilts/clang/host/linux-x86" name="AgustinLorenzo/platform_prebuilts_clang_host_linux-x86" groups="pdk" />
+	<project path="prebuilts/clang/host/linux-x86" name="AgustinLorenzo/platform_prebuilts_clang_host_linux-x86" revision="oreo-mr1" groups="pdk" />
 </manifest>
