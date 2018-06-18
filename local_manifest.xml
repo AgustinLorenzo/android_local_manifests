@@ -40,12 +40,6 @@
 	<remove-project path="packages/apps/Settings" name="LineageOS/android_packages_apps_Settings" groups="pdk" clone-depth="1"/>
 	<project path="packages/apps/Settings" name="AgustinLorenzo/android_packages_apps_Settings" groups="pdk" />
 
-	<remove-project path="packages/apps/Camera2" name="LineageOS/android_packages_apps_Camera2" groups="pdk-fs" clone-depth="1"/>
-
-	<remove-project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" groups="pdk" clone-depth="1"/>
-
-       <remove-project path="prebuilts/snapdragon-llvm/toolchains/llvm-Snapdragon_LLVM_for_Android_4.0/prebuilt/linux-x86_64" name="AgustinLorenzo/sdclang-4.0" />
-
 	<remove-project path="prebuilts/clang/host/linux-x86" name="platform/prebuilts/clang/host/linux-x86" groups="pdk" clone-depth="1"/>
 	<project path="prebuilts/clang/host/linux-x86" name="AgustinLorenzo/platform_prebuilts_clang_host_linux-x86" groups="pdk" />
 </manifest>
