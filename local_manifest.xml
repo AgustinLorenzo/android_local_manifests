@@ -44,4 +44,18 @@
 	<remove-project path="packages/apps/Camera2" name="LineageOS/android_packages_apps_Camera2" groups="pdk-fs" clone-depth="1"/>
 
 	<remove-project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" groups="pdk" clone-depth="1"/>
+
+       <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
+
+       <remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
+
+       <remove-project name="platform/prebuilts/gdb/darwin-x86" />
+
+       <remove-project name="platform/prebuilts/go/darwin-x86" />
+
+       <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
+
+       <remove-project name="kernel/tests" />
+
+       <remove-project name="LineageOS/android_packages_apps_FMRadio" />
 </manifest>
