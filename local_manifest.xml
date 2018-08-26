@@ -21,7 +21,7 @@
 
 	<project name="AgustinLorenzo/android_device_zuk_msm8996-common" path="device/zuk/msm8996-common" remote="github" revision="lineage-15.1" />
 
-	<project name="AgustinLorenzo/android_device_zuk_msm8996-common" path="device/zuk_pro/msm8996-common-pro" remote="github" revision="lineage-15.1-pro" />
+	<project name="AgustinLorenzo/android_device_zuk_msm8996-common" path="device/zuk2/msm8996-common-pro" remote="github" revision="lineage-15.1-pro" />
 
 	<project name="AgustinLorenzo/android_vendor_zuk" path="vendor/zuk" remote="github" revision="lineage-15.1" />
 
